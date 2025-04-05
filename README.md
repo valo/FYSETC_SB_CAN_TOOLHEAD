@@ -32,7 +32,7 @@ Official website
 
 # Docs
 
-Check our wiki: [SB CAN TH - FYSETC WIKI](https://wiki.fysetc.com/SB%20CAN%20ToolHead/)
+Check our wiki: [SB CAN TH - FYSETC WIKI](https://wiki.fysetc.com/docs/SB-CAN-ToolHead)
 
 # Contact US
 
